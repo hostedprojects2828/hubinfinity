@@ -1,0 +1,19 @@
+.bg {
+  background-image: url('../assets/image/bg_web.png');
+  background-repeat: no-repeat;
+  /* min-width: 100vw; */
+  min-height: 100vh;
+}
+
+.logo {
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 50vh;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+
+.logo img {
+  height: 100%;
+}
